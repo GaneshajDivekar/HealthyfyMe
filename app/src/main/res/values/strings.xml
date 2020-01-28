@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Choose a Date and Time</string>
+    <string name="Ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="language">Language</string>
+</resources>
