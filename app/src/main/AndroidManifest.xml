@@ -14,8 +14,7 @@
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".presentation.ui.homeModule.HomeActivity"
-            android:screenOrientation="portrait">
+        <activity android:name="com.example.me.presentation.ui.homeModule.HomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

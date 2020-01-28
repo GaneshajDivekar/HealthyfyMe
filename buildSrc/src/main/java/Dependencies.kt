@@ -1,5 +1,5 @@
 object ApplicationId {
-    const val id = "healthyfy.me"
+    const val id = "com.shiftweather"
 }
 
 object Modules {
